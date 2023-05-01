@@ -1,4 +1,4 @@
-[](https://res.cloudinary.com/dyb9udmiq/image/upload/v1682930755/banner_bb2k0p.gif)
+![](https://res.cloudinary.com/dyb9udmiq/image/upload/v1682930755/banner_bb2k0p.gif)
 
 <br/>
  
