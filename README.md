@@ -1,4 +1,4 @@
-![](https://res.cloudinary.com/dyb9udmiq/image/upload/v1682930755/banner_bb2k0p.gif)
+ <image align="center" src="banner.gif" alt="banner" />
 
 <br/>
  
