@@ -1,4 +1,4 @@
- <img align="center" src="https://images.unsplash.com/photo-1520085601670-ee14aa5fa3e8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx88&auto=format&fit=crop&w=870&h=335&q=80" height="100%" width="100%" alt="cover-image" />
+[](https://res.cloudinary.com/dyb9udmiq/image/upload/v1682930755/banner_bb2k0p.gif)
 
 <br/>
  
