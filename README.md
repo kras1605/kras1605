@@ -1,4 +1,4 @@
- <image align="center" src="cover.gif" width="100%" alt="banner" />
+ <image align="center" src="top-cover.gif" width="100%" alt="banner" />
 
 <br/>
  
